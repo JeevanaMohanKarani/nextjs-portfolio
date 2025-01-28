@@ -20,8 +20,8 @@ const projectsData = [
     description: "Project 2 description",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/JeevanaMohanKarani/nextjs-portfolio",
+    previewUrl: "https://nextjs-portfolio-nine-henna.vercel.app/",
   },
   {
     id: 3,
