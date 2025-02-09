@@ -21,8 +21,8 @@ const achievementsList = [
     value: "100,000",
   },
   {
-    metric: "Awards",
-    value: "7",
+    metric: "Certified Courses",
+    value: "4",
   },
   {
     metric: "Years",
