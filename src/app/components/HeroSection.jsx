@@ -36,8 +36,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+          I'm Jeevana Karani, an aspiring developer with a strong passion for coding and technology. 
+          I am continuously expanding my skills and improving my communication to effectively share ideas and solutions.
           </p>
           <div>
             <Link
