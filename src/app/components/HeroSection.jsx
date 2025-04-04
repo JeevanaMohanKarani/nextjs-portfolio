@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
+            I am Jeevana Karani, a technology enthusiast with a keen interest in Software Development, IoT, Data Science, and Artificial Intelligence. I am passionate about leveraging emerging technologies to develop innovative, efficient, and scalable solutions. With a strong problem-solving mindset, I continuously seek opportunities to expand my technical expertise and apply my knowledge to real-world challenges. My goal is to contribute to cutting-edge advancements in technology, driving efficiency and innovation across industries.
             voluptuous.
           </p>
           <div>
